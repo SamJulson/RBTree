@@ -829,7 +829,3 @@ int intCompare(void* int1, void* int2) {
 		return -1;
 	}
 }
-
-int main() {
-
-}
